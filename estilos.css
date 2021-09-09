@@ -1,0 +1,10 @@
+body {background-color: green;}
+.titulo {color:yellow; background:#3498DB; text-align:center;
+ font-size: 300%; font-family:Brush Script MT;}
+ #centro {margin:auto;display: block;}
+ .p1 {text-align: center;font-size:200%; background-color: white}
+.IyP {font-family:monospace;text-decoration: underline;}
+.p2 {font-size:160%; color:yellow; background:pink; text-align: center;}
+.p3 {font-family:monospace;}
+.img {width: auto; height: auto;}
+<!–– no sabia para que usar en mi imagen el width y el height,ya que a mi parecer esta bien el tamaño de la misma, asique los puse en auto––>
